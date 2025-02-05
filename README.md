@@ -15,6 +15,7 @@ I'm an 18-year-old **Web Developer** with over a year of experience in web devel
 
 ## 📍 Location & Contact:
 - 📍 **Location:** Tangail, Dhaka
+- 🌐 [**Portfolio**](https://mursalin.surge.sh/)
 - 📧 **Email:** [mursalin.dev@gmail.com](mailto:mursalin.dev@gmail.com)
 - 📞 **Phone:** +880 1953918566
 
@@ -50,8 +51,12 @@ I'm an 18-year-old **Web Developer** with over a year of experience in web devel
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mursalin06&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mursalin06&theme=dark&hide_border=false)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mursalin06&show_icons=true&theme=react&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalin06&layout=compact&theme=react&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursalin06&theme=react-dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalin06&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
