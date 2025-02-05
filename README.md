@@ -68,7 +68,3 @@ I'm an 18-year-old **Web Developer** with over a year of experience in web devel
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-🔗 **Visitor Count:**  
-[![](https://visitcount.itsvg.in/api?id=mursalin06&icon=0&color=0)](https://visitcount.itsvg.in)
