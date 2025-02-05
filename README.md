@@ -1,10 +1,9 @@
 # Hi, I'm Mursalin 👋
 🚀 **Web Developer**
----
+
 <div align="center">
   <img height="200" src="https://i.ibb.co.com/mrh650MX/github-header-image.png"  />
 </div>
----
 
 ## 💫 About Me:
 I'm an 18-year-old **Web Developer** with over a year of experience in web development. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on **frontend development** and looking for a **job or internship** to apply my skills and grow as a developer within a team environment.
