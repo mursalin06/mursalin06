@@ -1,10 +1,7 @@
 # Hi, I'm Mursalin 👋
 🚀 **MERN Stack Developer**
-
 ---
-
 ![GitHub Banner](https://i.ibb.co/G4khJyMF/banner.png)
-
 ---
 
 ## 💫 About Me:
