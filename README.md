@@ -1,9 +1,8 @@
-# 🌟 Hi, I'm Mursalin 👋
+#  Hi, I'm Mursalin 👋
 🚀 **MERN Stack Developer**
 
 ---
 
-## 🎨 Banner Image
 ![GitHub Banner](https://your-banner-image-url.com)
 
 ---
