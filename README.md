@@ -57,8 +57,6 @@ I'm an 18-year-old **Web Developer** with over a year of experience in web devel
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mursalin06&theme=react-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mursalin06&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ---
 
 ## 🏆 GitHub Trophies
