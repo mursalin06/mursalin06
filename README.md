@@ -1,7 +1,7 @@
 # Hi, I'm Mursalin 👋
 🚀 **Web Developer**
 ---
-![GitHub Banner](https://i.ibb.co/tP4Fks6y/untitled.png)
+![GitHub Banner](https://i.ibb.co/G4khJyMF/banner.png)
 ---
 
 ## 💫 About Me:
