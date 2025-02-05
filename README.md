@@ -1,5 +1,5 @@
 # Hi, I'm Mursalin 👋
-🚀 **MERN Stack Developer**
+🚀 **Web Developer**
 ---
 ![GitHub Banner](https://i.ibb.co/G4khJyMF/banner.png)
 ---
@@ -10,20 +10,6 @@ I'm an 18-year-old **Web Developer** with over a year of experience in web devel
 ### 🔥 Current Activities:
 - 🚀 Exploring **Next.js**
 - 🛠 Building personal projects to improve my skills
-
----
-
-## 📍 Location & Contact:
-- 📍 **Location:** Tangail, Dhaka
-- 🌐 [**Portfolio**](https://mursalin.surge.sh/)
-- 📧 **Email:** [mursalin.dev@gmail.com](mailto:mursalin.dev@gmail.com)
-- 📞 **Phone:** +880 1953918566
-
----
-
-## 🌐 Social Links:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mn.mursalin.18) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mursalin06/)
 
 ---
 
@@ -47,6 +33,20 @@ I'm an 18-year-old **Web Developer** with over a year of experience in web devel
 ### **Version Control & Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📍 Location & Contact:
+- 📍 **Location:** Tangail, Dhaka
+- 🌐 [**Portfolio**](https://mursalin.surge.sh/)
+- 📧 **Email:** [mursalin.dev@gmail.com](mailto:mursalin.dev@gmail.com)
+- 📞 **Phone:** +880 1953918566
+
+---
+
+## 🌐 Social Links:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mn.mursalin.18) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mursalin06/)
 
 ---
 
