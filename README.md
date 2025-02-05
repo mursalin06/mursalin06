@@ -2,7 +2,6 @@
 🚀 **Web Developer**
 ---
 ![GitHub Banner](https://i.ibb.co/tP4Fks6y/untitled.png)
-
 ---
 
 ## 💫 About Me:
