@@ -2,7 +2,7 @@
 🚀 **Web Developer**
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/mrh650MX/github-header-image.png"  />
+  <img height="200" src="https://i.ibb.co.com/tP4Fks6y/untitled.png"  />
 </div>
 
 ## 💫 About Me:
