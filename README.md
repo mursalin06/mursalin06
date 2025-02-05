@@ -2,6 +2,10 @@
 
 ###
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mursalin06&exclude_days=Fri" alt="GitHub Streak" /></a>
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
