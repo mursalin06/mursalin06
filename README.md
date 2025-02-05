@@ -1,5 +1,7 @@
+# Hello there 👋 I'm Mursalin!
+
 # 💫 About Me:
- I'm a 18 year old developer from Dhaka, Bangladesh. I'm practicing web development for more than a year. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on front-end development and am looking for an job or internship to apply my skills and grow as a developer within a team environment.<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Next.js<br>🎯 Goals: 1% better every day<br>🎲 Fun fact: When i'm not coding, I'm either Listening to Music or Watching Movies
+ I'm a 18 year old Web Developer. I'm practicing web development for more than a year. During this time, I've worked with various technologies and built several projects. Currently, I'm focused on front-end development and am looking for an job or internship to apply my skills and grow as a developer within a team environment.<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Next.js<br>🎯 Goals: 1% better every day<br>🎲 Fun fact: When i'm not coding, I'm either Listening to Music or Watching Movies
 
 
 ## 🌐 Socials:
