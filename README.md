@@ -3,7 +3,7 @@
 
 ---
 
-![GitHub Banner]([https://your-banner-image-url.com](https://i.ibb.co.com/G4khJyMF/banner.png))
+![GitHub Banner](https://i.ibb.co/G4khJyMF/banner.png)
 
 ---
 
